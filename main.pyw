@@ -3,7 +3,7 @@ from tkinter import ttk
 import openai
 
 # Cargamos la clave API de OpenAI
-openai.api_key = ""
+openai.api_key = "clave API de OpenAI"
 
 # Creamos la ventana principal
 window = tk.Tk()
