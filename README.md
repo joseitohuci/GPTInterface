@@ -1,2 +1,3 @@
-# wordpress
-Wordpress 6.0
+# interfaz grafica GPT
+
+Help me with $5
